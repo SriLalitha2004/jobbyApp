@@ -176,8 +176,8 @@ class AllJobs extends Component {
       return (
         <div className="profile-container">
           <img src={profileImageUrl} className="profile-icon" alt="profile" />
-          <h1 className="profile-name">{name}</h1>
-          <p className="profile-description">{shortBio}</p>
+          <h1 className="profile-name">Sri Lalitha Veeraboina</h1>
+          <p className="profile-description">Full Stack Developer</p>
         </div>
       )
     }
